@@ -15,7 +15,7 @@ Este repositorio está compuesto por los siguientes archivos y carpetas:
   Country_Consumption_TWH.csv
   energy_dataset.csv
   weather_features.csv
-- **documentos/**: En esta carpeta se encuentra un documento que explica detalladamente la **metodología** y las **etapas del proyecto**. Puedes consultarlo para obtener información adicional sobre cómo se desarrolló el proyecto y cómo se llegó a los resultados presentados en los notebooks.
+- **Documentos/**: En esta carpeta se encuentra un documento que explica detalladamente la **metodología** y las **etapas del proyecto**. Puedes consultarlo para obtener información adicional sobre cómo se desarrolló el proyecto y cómo se llegó a los resultados presentados en los notebooks.
 
 ## Instrucciones
 
